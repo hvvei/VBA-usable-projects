@@ -1,1 +1,1 @@
-For checking the detail code of VBA, please download it! Thanks!
+ Please download the raw file to try the applications! Thanks!
